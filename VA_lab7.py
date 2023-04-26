@@ -104,4 +104,4 @@ while True:
 	if abs(delta[0]) < t and abs(delta[1]) < t:
 		break
 
-print('Результат x = 'p[0], ' ', p[1])
+print('Результат x = ', p[0], '    y = ', p[1])
